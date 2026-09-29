@@ -1,0 +1,109 @@
+{
+  "blogs": [
+    {
+      "id": "1",
+      "title": "Learn React JS",
+      "image": "https://images.unsplash.com/photo-1633356122544-f134324a6cee",
+      "category": "React JS",
+      "date": "28 September 2026"
+    },
+    {
+      "id": "2",
+      "title": "JavaScript Basics",
+      "image": "https://images.unsplash.com/photo-1627398242454-45a1465c2479",
+      "category": "JavaScript",
+      "date": "25 September 2026"
+    },
+    {
+      "id": "3",
+      "title": "Web Development",
+      "image": "https://images.unsplash.com/photo-1498050108023-c5249f4df085",
+      "category": "Web Development",
+      "date": "20 September 2026"
+    },
+    {
+      "id": "4",
+      "title": "HTML for BBeginners",
+      "image": "https://images.unsplash.com/photo-1547658719-da2b51169166",
+      "category": "HTML",
+      "date": "18 September 2026"
+    },
+    {
+      "id": "5",
+      "title": "CSS Styling Guide",
+      "image": "https://images.unsplash.com/photo-1523437113738-bbd3cc89fb19",
+      "category": "CSS",
+      "date": "15 September 2026"
+    },
+    {
+      "id": "6",
+      "title": "Frontend Development",
+      "image": "https://images.unsplash.com/photo-1555066931-4365d14bab8c",
+      "category": "Frontend",
+      "date": "12 September 2026"
+    },
+    {
+      "id": "7",
+      "title": "Backend Development",
+      "image": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31",
+      "category": "Backend",
+      "date": "10 September 2026"
+    },
+    {
+      "id": "8",
+      "title": "Node JS ",
+      "image": "https://images.unsplash.com/photo-1515879218367-8466d910aaa4",
+      "category": "Node JS",
+      "date": "8 September 2026"
+    },
+    {
+      "id": "9",
+      "title": "MongoDB",
+      "image": "https://images.unsplash.com/photo-1555949963-ff9fe0c870eb",
+      "category": "Database",
+      "date": "5 September 2026"
+    },
+    {
+      "id": "10",
+      "title": "Git and GitHub",
+      "image": "https://images.unsplash.com/photo-1618401471353-b98afee0b2eb",
+      "category": "GitHub",
+      "date": "2 September 2026"
+    },
+    {
+      "id": "11",
+      "title": "Responsive Website",
+      "image": "https://images.unsplash.com/photo-1461749280684-dccba630e2f6",
+      "category": "Web Design",
+      "date": "30 August 2026"
+    },
+    {
+      "id": "12",
+      "title": "React Components",
+      "image": "https://images.unsplash.com/photo-1555949963-aa79dcee981c",
+      "category": "React JS",
+      "date": "28 August 2026"
+    },
+    {
+      "id": "13",
+      "title": "API Integration",
+      "image": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3",
+      "category": "API",
+      "date": "25 August 2026"
+    },
+    {
+      "id": "14",
+      "title": "Modern Web Design",
+      "image": "https://images.unsplash.com/photo-1558655146-d09347e92766",
+      "category": "Design",
+      "date": "22 August 2026"
+    },
+    {
+      "id": "15",
+      "title": "Full Stack Development",
+      "image": "https://images.unsplash.com/photo-1517694712202-14dd9538aa97",
+      "category": "Full Stack",
+      "date": "20 August 2026"
+    }
+  ]
+}
